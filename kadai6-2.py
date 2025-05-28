@@ -1,6 +1,8 @@
 import requests
 
 # 国土交通省道路局 交通量API
+# 指定した座標の範囲と時間の交通量を出力
+
 # エンドポイント
 API_URL  = "https://api.jartic-open-traffic.org/geoserver"
 
